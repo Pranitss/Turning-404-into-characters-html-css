@@ -1,0 +1,42 @@
+/*======================
+    404 page
+=======================*/
+
+.page_404 {
+    padding: 40px 0;
+    background: #fff;
+    font-family: 'Arvo', serif;
+}
+
+.page_404 img {
+    width: 100%;
+}
+
+.four_zero_four_bg {
+    background-image: url('https://cdn.svgator.com/images/2022/01/funny-404-page-design-inspiration.gif');
+    height: 100vh; /* Set height to 100% of viewport height */
+    background-position: center;
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* No repetition */
+    background-attachment: fixed; /* Fixed positioning */
+}
+
+.four_zero_four_bg h1 {
+    font-size: 80px;
+}
+
+.four_zero_four_bg h3 {
+    font-size: 80px;
+}
+
+.link_404 {
+    color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.contant_box_404 {
+    margin-top: -50px;
+}
